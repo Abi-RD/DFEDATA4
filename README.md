@@ -1,3 +1,5 @@
 # DFEDATA4
 
-QA bootcamp codes and files Repository
+QA DFEDATA4 Bootcamp Repository 
+
+Contains some python codes and SQL files 
