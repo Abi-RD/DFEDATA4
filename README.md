@@ -1,3 +1,3 @@
-# DFE_DATA4
+# DFEDATA4
 
-QA Repository for codes and files that are related to DFEDATA4 bootcamp
+QA Repository for codes and files that are related to bootcamp (DFEDATA4)
