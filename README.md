@@ -1,5 +1,3 @@
-# DFEDATA4 BOOTCAMP
+# DFEDATA4
 
-QA Repository
-
-This for codes and files 
+QA bootcamp codes and files Repository
