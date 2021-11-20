@@ -1,4 +1,5 @@
-        # with elif
+        
+        # using elif
 
 # Write a program that determines the name of a shape from its number of sides. 
 # Read the number of sides from the user and then report the appropriate name as part of a meaningful message. 
@@ -25,7 +26,7 @@ elif nsides == 9:
 elif nsides == 10:
     name = "Decagon"
 if name == " ":
-    print("Sorry," ,"Number sides not supported by this programme")
+    print("Sorry," ,"Number of sides not supported by this programme")
 else:
     print("That's a", name)
 
@@ -39,7 +40,7 @@ elif 65 <= mark < 85:
 else:
     print("fail") """
 
-            #BETTER STILL
+            # BETTER STILL
 """ if mark > 85:
     print("Distinction")
 elif mark > 65 and mark < 85:
@@ -47,7 +48,7 @@ elif mark > 65 and mark < 85:
 else:
     print("fail") """
 
-            #without elif
+            # marks question without elif
 
 # mark1 = int(input("Enter your marks: "))
 
