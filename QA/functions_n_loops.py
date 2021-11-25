@@ -29,14 +29,14 @@ while fs<0 or fs>100:
     fs = int(input("Re-enter final exam score between 0 and 100: "))
  
 
-returnpercentscore = ICT_grade(hm, cs, fs)
-if returnpercentscore > 80:
+percentscore = ICT_grade(hm, cs, fs)
+if percentscore > 80:
     grade = "A"
-elif 60 < returnpercentscore <= 80:
+elif 60 < percentscore <= 80:
     grade = "B"
-elif 40 < returnpercentscore <= 60:
+elif 40 < percentscore <= 60:
     grade = "C"
 else:
     grade = "F"
-print(name, "your total score of", round(returnpercentscore,2), "is a grade:", grade)
+print(name, "your total score of", round(percentscore,2), "is a grade:", grade)
 
