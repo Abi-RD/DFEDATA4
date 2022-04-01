@@ -90,5 +90,3 @@ SELECT category.`name`, count(film_category.film_id) FROM category
 JOIN film_category ON film_category.category_id=category.category_id
 GROUP BY film_category.category_id
 ORDER BY film_category.category_id LIMIT 1;
-
-
